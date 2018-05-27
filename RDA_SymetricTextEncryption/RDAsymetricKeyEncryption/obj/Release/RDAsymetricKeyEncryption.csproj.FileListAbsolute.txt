@@ -1,0 +1,18 @@
+C:\Users\Alex Weight\Documents\Visual Studio 2015\Projects\RDAsymetricKeyEncryption\RDAsymetricKeyEncryption\bin\Release\RDAsymetricKeyEncryption.exe.config
+C:\Users\Alex Weight\Documents\Visual Studio 2015\Projects\RDAsymetricKeyEncryption\RDAsymetricKeyEncryption\bin\Release\RDAsymetricKeyEncryption.exe
+C:\Users\Alex Weight\Documents\Visual Studio 2015\Projects\RDAsymetricKeyEncryption\RDAsymetricKeyEncryption\bin\Release\RDAsymetricKeyEncryption.pdb
+C:\Users\Alex Weight\Documents\Visual Studio 2015\Projects\RDAsymetricKeyEncryption\RDAsymetricKeyEncryption\obj\Release\RDAsymetricKeyEncryption.Form1.resources
+C:\Users\Alex Weight\Documents\Visual Studio 2015\Projects\RDAsymetricKeyEncryption\RDAsymetricKeyEncryption\obj\Release\RDAsymetricKeyEncryption.Properties.Resources.resources
+C:\Users\Alex Weight\Documents\Visual Studio 2015\Projects\RDAsymetricKeyEncryption\RDAsymetricKeyEncryption\obj\Release\RDAsymetricKeyEncryption.csproj.GenerateResource.Cache
+C:\Users\Alex Weight\Documents\Visual Studio 2015\Projects\RDAsymetricKeyEncryption\RDAsymetricKeyEncryption\obj\Release\RDAsymetricKeyEncryption.exe
+C:\Users\Alex Weight\Documents\Visual Studio 2015\Projects\RDAsymetricKeyEncryption\RDAsymetricKeyEncryption\obj\Release\RDAsymetricKeyEncryption.pdb
+C:\Users\Alex Weight\Documents\Visual Studio 2015\Projects\RDAsymetricKeyEncryption\RDAsymetricKeyEncryption\obj\Release\RDAsymetricKeyEncryption.csprojResolveAssemblyReference.cache
+C:\Users\Alex Weight\Desktop\RDA_SymetricTextEncryption\RDAsymetricKeyEncryption\bin\Release\RDAsymetricKeyEncryption.exe.config
+C:\Users\Alex Weight\Desktop\RDA_SymetricTextEncryption\RDAsymetricKeyEncryption\bin\Release\RDAsymetricKeyEncryption.exe
+C:\Users\Alex Weight\Desktop\RDA_SymetricTextEncryption\RDAsymetricKeyEncryption\bin\Release\RDAsymetricKeyEncryption.pdb
+C:\Users\Alex Weight\Desktop\RDA_SymetricTextEncryption\RDAsymetricKeyEncryption\obj\Release\RDAsymetricKeyEncryption.csprojResolveAssemblyReference.cache
+C:\Users\Alex Weight\Desktop\RDA_SymetricTextEncryption\RDAsymetricKeyEncryption\obj\Release\RDAsymetricKeyEncryption.Form1.resources
+C:\Users\Alex Weight\Desktop\RDA_SymetricTextEncryption\RDAsymetricKeyEncryption\obj\Release\RDAsymetricKeyEncryption.Properties.Resources.resources
+C:\Users\Alex Weight\Desktop\RDA_SymetricTextEncryption\RDAsymetricKeyEncryption\obj\Release\RDAsymetricKeyEncryption.csproj.GenerateResource.Cache
+C:\Users\Alex Weight\Desktop\RDA_SymetricTextEncryption\RDAsymetricKeyEncryption\obj\Release\RDAsymetricKeyEncryption.exe
+C:\Users\Alex Weight\Desktop\RDA_SymetricTextEncryption\RDAsymetricKeyEncryption\obj\Release\RDAsymetricKeyEncryption.pdb
