@@ -1,0 +1,9 @@
+c:\users\weigh\onedrive\documents\visual studio 2013\Projects\EnigmaV2\EnigmaV2\bin\Debug\EnigmaV2.exe.config
+c:\users\weigh\onedrive\documents\visual studio 2013\Projects\EnigmaV2\EnigmaV2\bin\Debug\EnigmaV2.exe
+c:\users\weigh\onedrive\documents\visual studio 2013\Projects\EnigmaV2\EnigmaV2\bin\Debug\EnigmaV2.pdb
+c:\users\weigh\onedrive\documents\visual studio 2013\Projects\EnigmaV2\EnigmaV2\obj\Debug\EnigmaV2.csprojResolveAssemblyReference.cache
+c:\users\weigh\onedrive\documents\visual studio 2013\Projects\EnigmaV2\EnigmaV2\obj\Debug\EnigmaV2.Form1.resources
+c:\users\weigh\onedrive\documents\visual studio 2013\Projects\EnigmaV2\EnigmaV2\obj\Debug\EnigmaV2.Properties.Resources.resources
+c:\users\weigh\onedrive\documents\visual studio 2013\Projects\EnigmaV2\EnigmaV2\obj\Debug\EnigmaV2.csproj.GenerateResource.Cache
+c:\users\weigh\onedrive\documents\visual studio 2013\Projects\EnigmaV2\EnigmaV2\obj\Debug\EnigmaV2.exe
+c:\users\weigh\onedrive\documents\visual studio 2013\Projects\EnigmaV2\EnigmaV2\obj\Debug\EnigmaV2.pdb
